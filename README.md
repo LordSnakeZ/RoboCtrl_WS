@@ -1,2 +1,2 @@
 # RoboCtrl_WS
-Este repositorio contiene el entorno de desarrollo basado en ROS2 Humble para el control de robots. Incluye paquetes y nodos diseñados para gestionar la comunicación, control de motores y procesamiento de datos de sensores en sistemas robóticos.
+This repository contains the development environment based on ROS2 Humble for robot control. It includes packages and nodes designed to manage communication, motor control, and sensor data processing in robotic systems.
